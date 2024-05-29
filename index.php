@@ -1,3 +1,3 @@
 <?php
-    echo "HALLO... INI TEST DI GIT LAB, OKE 11";
+    echo "HALLO... INI TEST DI GIT LAB, OKE SUDAH GIT HUB";
 ?>
